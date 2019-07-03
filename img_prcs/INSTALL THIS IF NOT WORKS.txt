@@ -1,0 +1,5 @@
+1) python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+
+2) pip install opencv-python
+
+3) pip install pylint

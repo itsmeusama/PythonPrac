@@ -1,0 +1,5 @@
+Run the python file using following command.
+
+"python Extractions.py --image car.jpg"
+
+you can put any image to root folder and mention it after the --image line.
