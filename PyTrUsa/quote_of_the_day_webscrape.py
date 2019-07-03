@@ -1,5 +1,10 @@
+#pip install beautifulsoup4
 from bs4 import BeautifulSoup
+
+#pip install requests
+#sudo pip install requests(unix)
 import requests
+
 #http Req
 res = requests.get('https://www.brainyquote.com/quote_of_the_day')
 
