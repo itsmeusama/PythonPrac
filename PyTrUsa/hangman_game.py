@@ -20,10 +20,8 @@ guesses = ''
 turns = 3
 
 
-# check if the turns are more than zero
 while turns > 0:
 
-    # make a counter that starts with zero
     # fail counter
     failed = 0
 
