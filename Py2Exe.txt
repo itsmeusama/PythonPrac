@@ -1,0 +1,14 @@
+1.pip install pyinstaller
+
+type 'pyinstaller' - and check whether installed properly
+
+2.go to the py file director y
+
+3.pyinstaller -w yourfile.py - to disable console 
+pyinstaller -F yourfile.py - this will make it to single file
+or use everything
+pyinstaller -F -w yourfile.py (Recommended)
+
+
+pyinstaller -F -w -i iconfile.ico yourpyfile.py - to change the exe icon(icon should be .ico type)
+
