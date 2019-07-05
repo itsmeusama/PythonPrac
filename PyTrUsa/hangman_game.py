@@ -11,7 +11,7 @@ time.sleep(1)
 print("Start guessing...")
 time.sleep(0.5)
 
-# This is going to be that secret word
+#secret word
 word = "secret"
 
 guesses = ''
