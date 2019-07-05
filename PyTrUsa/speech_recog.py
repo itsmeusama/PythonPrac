@@ -14,3 +14,7 @@ with sr.Microphone() as source:
     print('You said : {}'.format(text))
     # except
     print('Sorry Coudnt Recognized yo voice')
+    
+    
+#PyAudio error might occur constantly though you install pip install pip audio/ pip install SpeechRocognition
+# Download the relavant version of pyaudio from (https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio) and pip install (downloaded file)
