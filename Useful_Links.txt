@@ -5,3 +5,9 @@ https://github.com/openalpr/openalpr   - OpenAlpr -
 
 
 http://blog.appliedinformaticsinc.com/how-to-parse-and-convert-xml-to-csv-using-python/      -XML 2 CSV Conversion PY
+
+( https://docs.python.org/2/library/xml.etree.elementtree.html
+    https://eli.thegreenplace.net/2012/03/15/processing-xml-in-python-with-elementtree
+    
+    https://www.geeksforgeeks.org/xml-parsing-python/
+
