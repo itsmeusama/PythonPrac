@@ -2,3 +2,6 @@ https://hackernoon.com/50-popular-python-open-source-projects-on-github-in-2018-
 
 
 https://github.com/openalpr/openalpr   - OpenAlpr -
+
+
+http://blog.appliedinformaticsinc.com/how-to-parse-and-convert-xml-to-csv-using-python/      -XML 2 CSV Conversion PY
