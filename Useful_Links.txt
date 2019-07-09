@@ -15,4 +15,8 @@ http://blog.appliedinformaticsinc.com/how-to-parse-and-convert-xml-to-csv-using-
     
     --Gist hub -- Dustbin
     https://gist.github.com/search?l=Python&p=2&q=pyhton
+    
+    
+    --Parquet file Format 
+    https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_parquet.html
 
