@@ -1,0 +1,27 @@
+<State>
+<Book Id="100">
+	<Title>Oliver Twist</Title>
+    <Author>Charles Dickens</Author>
+	<Genre>Drama</Genre>
+	<Price>2100</Price>
+    
+	<Publisher>
+		<Company>HF Publisher</Company>
+		<Address>23/1 A L/A</Address>
+	</Publisher> 
+</Book>
+<Book Id="101">
+	<Title>Harry Potter</Title>
+    <Author>JK Rowling</Author>
+	<Genre>Mystery</Genre>
+	<Price>3500</Price>
+	<Publisher>
+		<Company> Penguin </Company>
+		<Address>223/1 B New York</Address>
+	</Publisher> 
+</Book>
+.
+.
+.
+.
+</State>
