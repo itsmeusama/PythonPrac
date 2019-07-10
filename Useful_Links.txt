@@ -19,4 +19,8 @@ http://blog.appliedinformaticsinc.com/how-to-parse-and-convert-xml-to-csv-using-
     
     --Parquet file Format 
     https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_parquet.html
-
+    
+    ---XML to CSV
+    https://docs.python.org/3/library/xml.etree.elementtree.html
+    https://dzone.com/articles/processing-xml-python
+    https://www.programcreek.com/python/example/88289/xml.etree.ElementTree.XMLParser
