@@ -1,0 +1,54 @@
+<State>
+<Book Id="100">
+	<Title>Oliver Twist</Title>
+    <Author>Charles Dickens</Author>
+	<Genre>Drama</Genre>
+	<Price>2100</Price>
+	<Edition>2nd Edition </Edition>
+	<Publisher>
+		<Publication>HYF Publication</Publication>
+		<Estb>1975</Estb>
+		<Address>23/1 A L/A</Address>
+		<RegNo>LKA 782345</RegNo>
+	</Publisher> 
+</Book>
+<Book Id="101">
+	<Title>Harry Potter</Title>
+    <Author>JK Rowling</Author>
+	<Genre>Mystery</Genre>
+	<Price>3500</Price>
+	<Edition>3rd Edition </Edition>
+	<Publisher>
+		<Publication>Penguin Publication</Publication>
+		<Estb>1987</Estb>
+		<Address>223/1 B New York</Address>	
+		<RegNo>LKA 782307</RegNo>
+	</Publisher> 
+</Book>
+<Book Id="102">
+	<Title>Kite Runner</Title>
+    <Author>Khaled Hussaini</Author>
+	<Genre>Classic</Genre>
+	<Price>4200</Price>
+	<Edition>8th Edition </Edition>
+	<Publisher>
+		<Publication>SF Publication</Publication>
+		<Estb>1927</Estb>
+		<Address>23/1 C Los Angeles</Address>	
+		<RegNo>LKA 782388</RegNo>
+	</Publisher> 
+</Book>
+<Book Id="103">
+	<Title>Village By the Sea</Title>
+    <Author>Anita Desai</Author>
+	<Genre>Adult Novel</Genre>
+	<Price>1500</Price>
+	<Edition>10th Edition </Edition>
+	<Publisher>
+		<Publication>DMK Publication</Publication>
+		<Estb>1937</Estb>
+		<Address>22585/1 C Chennai</Address>	
+		<RegNo>LKA 782300</RegNo>
+	</Publisher> 
+</Book>
+</State>
