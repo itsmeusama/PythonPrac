@@ -17,7 +17,7 @@ count = 0
 for element in root.findall('Book'):
     book_nodes = []  # To get the child Values
     publisher_list = []  # To get the child values of Publisher
-    if count == 0:
+    if (count == 0):
         Title = element.find('Title').tag
         book_head.append(Title)
         Author = element.find('Author').tag
@@ -26,13 +26,14 @@ for element in root.findall('Book'):
         book_head.append(Genre)
         Price = element.find('Price').tag
         book_head.append(Price)
+        #Publisher = element.find('Publisher').tag
         Publisher = element[5].tag
-        book_head.append(Publisher)
-        
+        book_head.append(Publisher)  #Book_head Printing all the titles/Headings
+        #print ('Element Titles: ')
         csvwriter.writerow(book_head)
         count = count + 1
-
-    # Get Child Node
+    
+    # Get Child Nodes of Book elem
     Title = element.find('Title').text
     book_nodes.append(Title)
     Author = element.find('Author').text
@@ -43,6 +44,7 @@ for element in root.findall('Book'):
     book_nodes.append(Price)
 
     Publisher = element[5][0].text
+    #Publisher = element.find('Publisher').getchilderen()
     publisher_list.append(Publisher)
     Company = element[5][1].text
     publisher_list.append(Company)
@@ -54,6 +56,7 @@ for element in root.findall('Book'):
 
     # Write book details to csv
     csvwriter.writerow(book_nodes)
+
 
 # close csv file
 book_data.close()
